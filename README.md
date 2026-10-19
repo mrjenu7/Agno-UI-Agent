@@ -27,7 +27,6 @@ This project demonstrates a powerful AI agent interface built with Agno and Nebi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Arindam200/awesome-ai-apps.git
 cd simple_ai_agent/agno_ui_agent
 ```
 
